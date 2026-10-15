@@ -25,6 +25,11 @@ Java 学习练习代码，按课程节点分文件夹。
 | `se07/payment/` | 接口与多态 | 订单支付：支付宝/银行卡实现同一接口 | `java -cp out se07.payment.Main` |
 | `se08/codeblock/` | SE-08 代码块 | 静态代码块、实例代码块、构造方法的执行顺序 | `java -cp out se08.codeblock.Main` |
 | `se08/innerclass/` | SE-08 内部类 | 成员内部类、静态内部类（学生、图书馆） | `java -cp out se08.innerclass.Main` / `se08.innerclass.LibraryMain` |
+| `se08/anonymous/` | SE-08 匿名内部类 | 计算器接口：用匿名内部类实现加法、乘法，并与 Lambda 写法对比 | `java -cp out se08.anonymous.Main` |
+| `se08/anonymous2/` | SE-08 匿名内部类 | 问候接口：两个匿名内部类分别输出中文、英文问候语 | `java -cp out se08.anonymous2.Main` |
+| `se08/lambda1/` | SE-08 Lambda | 成绩判断接口：用代码块和表达式两种 Lambda 写法判断及格、优秀 | `java -cp out se08.lambda1.Main` |
+| `se08/methodref/` | SE-08 方法引用 | 成绩判断：静态方法引用 Main::isPass 与对象方法引用（PassLine 及格线对象） | `java -cp out se08.methodref.Main` |
+| `se08/string1/` | SE-08 String 基础 | 以邮箱字符串练习 length、charAt、isEmpty、contains、endsWith | `java -cp out se08.string1.Main` |
 
 ## 如何运行
 
