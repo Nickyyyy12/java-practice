@@ -30,6 +30,7 @@ Java 学习练习代码，按课程节点分文件夹。
 | `se08/lambda1/` | SE-08 Lambda | 成绩判断接口：用代码块和表达式两种 Lambda 写法判断及格、优秀 | `java -cp out se08.lambda1.Main` |
 | `se08/methodref/` | SE-08 方法引用 | 成绩判断：静态方法引用 Main::isPass 与对象方法引用（PassLine 及格线对象） | `java -cp out se08.methodref.Main` |
 | `se08/string1/` | SE-08 String 基础 | 以邮箱字符串练习 length、charAt、isEmpty、contains、endsWith | `java -cp out se08.string1.Main` |
+| `block2/` | SE-08 代码块（复习） | 闭卷复习，换新场景 Course：静态代码块、实例代码块、构造方法的执行顺序 | `java -cp out block2.Main` |
 
 ## 如何运行
 
